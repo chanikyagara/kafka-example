@@ -1,3 +1,3 @@
 # Kafka-Example
 
-Springbot api to publish and consume the messages.
+Springboot api to publish and consume the messages.
